@@ -1,0 +1,29 @@
+//语句声明测试
+/*
+包括变量层次的测试
+*/
+
+int a=10;
+write(a);
+if(a<12)
+{
+    int a=22;
+    write(a);
+    a=33;
+    write(a);
+    
+}
+write(a);
+
+int b=15;
+b=26;
+real c=12.4;
+c=32.7;
+real d=18.8;
+d=88.6;
+int e[10];
+e[2]=100;
+write(e[2]);
+
+real f[20];
+f[8]=90.89;

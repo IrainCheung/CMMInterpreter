@@ -1,0 +1,30 @@
+
+real a=12;
+write(a/3+3*2);
+
+if(a>2)
+{
+    if(a>3)
+    {
+        int a=21;
+        write(a);
+    }
+    write(a);
+    int a=9;
+    write(a);
+}
+else
+{
+    int a=3;
+    write(a);
+}
+
+if(a>20)
+{
+    write(20);
+}
+else
+{
+    write(21);
+}
+

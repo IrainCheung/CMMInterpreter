@@ -1,0 +1,8 @@
+int b=14;
+write(b);
+int a=12.3;
+
+write(a);
+
+
+

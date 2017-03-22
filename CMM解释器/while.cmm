@@ -1,0 +1,20 @@
+//while ”Ôæ‰≤‚ ‘
+int a=5;
+
+while(a<=10)
+{
+    int b=2;
+    write(b);
+    write(a);
+    a=a+1;
+}
+real b=29;
+write(b);
+
+while(b>20)
+{
+    int c=11;
+    write(c);
+    write(b);
+    b=b-3;
+}

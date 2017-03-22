@@ -1,0 +1,18 @@
+int a[10];
+int b=0;
+
+
+while(b<10)
+{
+    a[b]=b;
+    b=b+1;
+}
+b=0;
+
+
+while(b<10)
+{
+    write(a[b]);
+    b=b+1;
+}
+
